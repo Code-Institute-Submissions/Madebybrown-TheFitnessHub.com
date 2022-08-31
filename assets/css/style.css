@@ -1,0 +1,31 @@
+/* Google Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&family=PT+Sans&display=swap');
+
+/* Global */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', 'PT Sans';
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    width: vw;
+    height: 100vh;
+    background-image: url(../images/teamwork.PNG);
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
