@@ -203,6 +203,19 @@ p   {
 
 /* Gallery */
 
+/* .gallery {
+    width: 100vw;
+    height: 100vh;
+}
+
+.content-col {
+    width: 50%;
+}
+
+.image-col {
+    width: 60%;
+}
+
 .gallery .row .col {
     width: 50%;
 }
@@ -215,7 +228,31 @@ p   {
 .image-gallery img {
     width: 250px;
     margin: 10px;
+} */
+
+/* Footer */
+
+footer {
+    height: 100px;
 }
+
+.social-networks {
+    text-align: center;
+    margin: 1%;
+    padding: 3% 5%;
+}
+
+.social-networks > li {
+    display: inline;
+    margin: 1%;
+    padding: 3% 5%;
+}
+
+.social-networks i {
+    font-size: 180%;
+    color: #3a3a3a;
+}
+
 
 /* Mobile Device */
 
