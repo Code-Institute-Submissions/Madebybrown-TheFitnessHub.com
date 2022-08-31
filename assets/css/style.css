@@ -201,6 +201,22 @@ p   {
     margin-top: 40px;
 }
 
+/* Gallery */
+
+.gallery .row .col {
+    width: 50%;
+}
+
+.gallery .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-gallery img {
+    width: 250px;
+    margin: 10px;
+}
+
 /* Mobile Device */
 
 @media only screen and (max-width:850px) {
