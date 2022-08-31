@@ -126,7 +126,13 @@ header {
         height: 100vh;
         justify-content: center;
         background: #484872;
+        margin-top: -900px;
     }
+
+    .mobile-menu {
+        margin-top: 0px;
+    }
+
     .nav-links li {
         margin: 30px auto;
     }
