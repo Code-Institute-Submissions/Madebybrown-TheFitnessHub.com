@@ -36,7 +36,7 @@ ul {
     width: 100%;
     justify-content: space-between;
     padding: 20px;
-    color: whitesmoke;
+    color: #242424;
 
 }
 
@@ -51,7 +51,7 @@ ul {
 }
 
 .navbar a {
-    color: whitesmoke;
+    color: #242424;
 }
 
 .navbar a:hover {
@@ -60,16 +60,16 @@ ul {
     font-weight: bold;
 }
 
-/* #ctn1 a:hover {
+.logo {
     color: whitesmoke;
-} */
+}
 
 /* Header */
 
 header {
+    background-image: url(../images/lift.jpg);
     width: 100vw;
     height: 100vh;
-    background-image: url(../images/teamwork.PNG) ;
     background-position: bottom;
     background-size: cover;
     display: flex;
@@ -81,6 +81,7 @@ header {
     margin-bottom: 15px;
     color: whitesmoke;
     text-align: center;
+    padding-bottom: 200px;
 }
 
 .header-content h1 {
@@ -91,7 +92,7 @@ header {
 .line {
     width: 150px;
     height: 4px;
-    background-color: #fc036b;
+    background-color: whitesmoke;
     margin: 10px auto;
     border-radius: 5px;
 }
@@ -104,9 +105,9 @@ header {
 
 .ctn {
     padding: 8px 15px;
-    background: #fc036b;
+    background: whitesmoke;
     border-radius: 30px;
-    color: whitesmoke;
+    color: #242424;
 }
 
 .menu-btn {
@@ -148,13 +149,18 @@ section {
     margin-top: 50px;
 }
 
+img {
+    padding-bottom: 10px;
+}
+
 h4  {
     font-size: 3vmin;
     margin: 20px auto;
 }
 
 p   {
-    padding: 0px 40px;
+    padding: 10px 40px;
+    max-width: 550px;
 }
 
 .featured-articles .ctn {
@@ -162,7 +168,6 @@ p   {
 }
 
 /* Explore */
-
 .explore {
     width: 100%;
     height: 100vh;
@@ -201,37 +206,7 @@ p   {
     margin-top: 40px;
 }
 
-/* Gallery */
-
-/* .gallery {
-    width: 100vw;
-    height: 100vh;
-}
-
-.content-col {
-    width: 50%;
-}
-
-.image-col {
-    width: 60%;
-}
-
-.gallery .row .col {
-    width: 50%;
-}
-
-.gallery .image-gallery {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.image-gallery img {
-    width: 250px;
-    margin: 10px;
-} */
-
 /* Footer */
-
 .footer {
     width: 100%;
     height: 200px;
@@ -240,19 +215,12 @@ p   {
     text-align: center;
 }
 
-/* footer {
-    height: 100px;
-} */
-
 .social-networks {
     text-align: center;
-    /* margin: 1%; */
-    /* padding: 3% 5%; */
 }
 
 .social-networks > li {
     display: inline;
-    /* margin: 1%; */
     padding: 3% 5%;
 }
 
@@ -261,9 +229,7 @@ p   {
     color: #3a3a3a;
 }
 
-
 /* Mobile Device */
-
 @media only screen and (max-width:850px) {
     .menu-btn {
         display: block;
@@ -282,7 +248,7 @@ p   {
         width: 100%;
         height: 100vh;
         justify-content: center;
-        background: #484872;
+        background: whitesmoke;
         margin-top: -900px;
         transition: all 0.5s ease;
     }
@@ -321,7 +287,6 @@ p   {
 }
 
 /* Animations */
-
 img {
     transition: transform .3s ease;
 }
@@ -332,4 +297,11 @@ img:hover {
     background: whitesmoke;
     color: #fc036b;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.308);
+}
+
+.menu-btn {
+    transition: transform .3s ease;
+}
+.menu-btn:hover {
+    transform: scale(1.1);
 }
