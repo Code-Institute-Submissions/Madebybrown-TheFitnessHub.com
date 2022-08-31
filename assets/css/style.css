@@ -60,9 +60,9 @@ ul {
     font-weight: bold;
 }
 
-#ctn1 a:hover {
+/* #ctn1 a:hover {
     color: whitesmoke;
-}
+} */
 
 /* Header */
 
@@ -318,4 +318,18 @@ p   {
 /* footer */
 .footer {
     padding: 10px;
+}
+
+/* Animations */
+
+img {
+    transition: transform .3s ease;
+}
+img:hover {
+    transform: scale(1.01);
+}
+.ctn:hover {
+    background: whitesmoke;
+    color: #fc036b;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.308);
 }
