@@ -22,12 +22,6 @@ ul {
     list-style: none;
 }
 
-.active {
-    color: #fc036b;
-    text-decoration: underline;
-    font-weight: bold;
-}
-
 /* Navbar */
 
 .navbar {
@@ -54,6 +48,12 @@ ul {
 
 .navbar a {
     color: whitesmoke;
+}
+
+.navbar a:hover {
+    color: #fc036b;
+    text-decoration: underline;
+    font-weight: bold;
 }
 
 /* Header */
@@ -99,6 +99,14 @@ header {
     background: #fc036b;
     border-radius: 30px;
     color: whitesmoke;
+}
+
+.menu-btn {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 40px;
+    cursor: pointer;
 }
 
 /* Mobile Device */
