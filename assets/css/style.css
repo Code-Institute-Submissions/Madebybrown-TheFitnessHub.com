@@ -37,7 +37,7 @@ header {
 
 .header-content h1 {
     font-size: 4vmin;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .line {
