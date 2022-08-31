@@ -8,6 +8,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -51,7 +52,7 @@ ul {
 }
 
 .navbar a {
-    color: #242424;
+    color: whitesmoke;
 }
 
 .navbar a:hover {
@@ -105,9 +106,9 @@ header {
 
 .ctn {
     padding: 8px 15px;
-    background: whitesmoke;
+    background: #fc036b;
     border-radius: 30px;
-    color: #242424;
+    color: whitesmoke;
 }
 
 .menu-btn {
