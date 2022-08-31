@@ -35,8 +35,9 @@ header {
     text-align: center;
 }
 
-.header-content h2 {
+.header-content h1 {
     font-size: 4vmin;
+    text-transform: uppercase;
 }
 
 .line {
@@ -47,7 +48,7 @@ header {
     border-radius: 5px;
 }
 
-.header-content h1 {
+.header-content h2 {
     font-size: 7vmin;
     margin-top: 50px;
     margin-bottom: 30px;
@@ -55,4 +56,6 @@ header {
 
 .ctn {
     padding: 8px 15px;
-}
+    background: whitesmoke;
+    border-radius: 30px;
+    color: black;
