@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Fitness Hub</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar" id="1">
+        <h1 class="logo">THE FITNESS HUB</h1>
+        <ul class="nav-links">
+            <!-- <li><a href="#1" class="ctn">Home</a></li> -->
+            <li><a href="#2" class="ctn">Articles</a></li>
+            <li><a href="#3" class="ctn">Explore</a></li>
+            <li class="ctn" id="ctn1"><a href="#">Contact</a></li>
+        </ul>
+        <img src="assets/images/menu.jpg" alt="Menu Icon" class="menu-btn">
+    </nav>
+
+<!-- Menu button script -->
+    <script>
+        const menuBtn = document.querySelector('.menu-btn')
+        const navlinks = document.querySelector('.nav-links')
+
+        menuBtn.addEventListener('click',()=>{
+            navlinks.classList.toggle('mobile-menu')
+        })
+    </script>
+
+    <footer class="footer">
+        <ul class="social-networks">
+            <li>
+                <a href="https://www.linkedin.com/in/alexander-jonsson-312a70248" target="_blank" rel="noopener" aria-label="Visit my Linkedin page (opens in new tab)"><i class="fa-brands fa-linkedin"></i></a>
+            </li>
+            <li>
+                <a href="https://github.com/Madebybrown" target="_blank" rel="noopener" aria-label="Visit my Github page (opens in new tab)"><i class="fa-brands fa-square-github"></i></a>
+            </li>
+        </ul>
+        <small id="copyr">&copy; Copyright 2022, Alexander Jonsson</small>
+    </footer>
+
+    <!-- font awesome script-->
+    <script src="https://kit.fontawesome.com/1b5c6f5f59.js" crossorigin="anonymous"></script>
+</body>
+</html>
