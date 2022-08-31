@@ -69,7 +69,7 @@ ul {
 header {
     width: 100vw;
     height: 100vh;
-    background-image: url(../images/teamwork.PNG);
+    background-image: url(../images/teamwork.PNG) ;
     background-position: bottom;
     background-size: cover;
     display: flex;
