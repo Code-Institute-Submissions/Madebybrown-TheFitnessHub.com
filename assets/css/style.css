@@ -184,8 +184,13 @@ p   {
 }
 
 .explore-content h1 {
-    font-size: 7vmin;
+    font-size: 5vmin;
     margin: 50px;
+    text-transform: uppercase;
+}
+
+.explore-content .line {
+    margin-bottom: 50px;
 }
 
 .explore-content p {
