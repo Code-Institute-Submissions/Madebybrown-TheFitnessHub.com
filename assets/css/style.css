@@ -126,6 +126,7 @@ header {
     cursor: pointer;
     color: whitesmoke;
     display: none;
+    z-index: 6;
 }
 
 /* Featured Articles */
@@ -219,6 +220,16 @@ p   {
     display: flex;
     align-items: center;
     flex-direction: column;
+}
+
+#ctn-top {
+    background-color: whitesmoke;
+    color: #fc036b;
+}
+
+#ctn-top:hover {
+    background-color: #fc036b;
+    color: whitesmoke;
 }
 
 /* Footer */
@@ -331,11 +342,12 @@ p   {
     .nav-links {
         flex-direction: row;
         width: 100%;
-        height: 20vh;
+        height: 50vh;
         justify-content: center;
         background: rgba(185, 185, 185, 0.863);
         margin-top: -1400px;
         transition: all 0.5s ease;
+        z-index: 5;
     }
 
     .mobile-menu {
