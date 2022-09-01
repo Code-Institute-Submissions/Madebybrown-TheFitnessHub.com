@@ -38,7 +38,18 @@ ul {
     justify-content: space-between;
     padding: 20px;
     color: #242424;
+}
 
+.sticky {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    align-items: center;
+    z-index: 100;
+    width: 100%;
+    transition: 0.6s;
 }
 
 .nav-links {
