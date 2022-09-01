@@ -85,7 +85,7 @@ header {
     padding-bottom: 200px;
 }
 
-.header-content h1 {
+.header-content h3 {
     font-size: 4vmin;
     text-transform: uppercase;
 }
@@ -195,7 +195,7 @@ p   {
     flex-direction: column;
 }
 
-.explore-content h1 {
+.explore-content h2 {
     font-size: 5vmin;
     margin: 50px;
     text-transform: uppercase;
