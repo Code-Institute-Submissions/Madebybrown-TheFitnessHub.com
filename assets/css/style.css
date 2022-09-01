@@ -234,6 +234,46 @@ p   {
     color: #3a3a3a;
 }
 
+/* Contact Form */
+
+.contact-bg {
+    background-image: url(../images/gym.JPG);
+    width: 100vw;
+    height: 100vh;
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.contact-form {
+    width: 85%;
+    max-width: 600px;
+    background: rgba(167, 167, 167, 0.89);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% -50%);
+    padding: 30px 40px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 20px #000000b3;
+}
+
+.contact-form h1 {
+    margin-top: 0;
+    font-weight: 200;
+}
+
+.textb {
+    border: 1px solid gray;
+    margin: 8px 0;
+    padding: 12px 18px;
+    border-radius: 8px;
+}
+
 /* Mobile Device */
 @media only screen and (max-width:850px) {
     .menu-btn {
@@ -309,30 +349,5 @@ img:hover {
 }
 .menu-btn:hover {
     transform: scale(1.1);
-}
-
-/* Contact Form */
-
-.contact-bg {
-    background-image: url(../images/gym.JPG);
-    width: 100vw;
-    height: 100vh;
-    background-position: bottom;
-    background-size: cover;
-    display: flex;
-    align-items: flex-end;
-    justify-content: center;
-}
-
-.contact-form {
-    width: 85%;
-    max-width: 600px;
-    background: rgba(167, 167, 167, 0.89);
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50% -50%);
-    padding: 30px 40px;
-    box-sizing: border-box;
 }
 
