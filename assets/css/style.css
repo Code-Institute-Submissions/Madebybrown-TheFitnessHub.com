@@ -107,6 +107,8 @@ header {
 .header-content p {
     font-style: italic;
     margin-bottom: 10px;
+    color: white;
+    text-shadow: 2px 2px #00000094;
 } 
 
 .ctn {
