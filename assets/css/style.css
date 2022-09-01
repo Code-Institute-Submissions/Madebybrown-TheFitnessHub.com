@@ -211,6 +211,14 @@ p   {
     margin-top: 40px;
 }
 
+.back-to-top {
+    padding: 50px;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
 /* Footer */
 .footer {
     width: 100%;
