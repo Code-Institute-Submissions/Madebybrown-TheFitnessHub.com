@@ -372,6 +372,24 @@ p   {
     }
 }
 
+@media only screen and (max-width:470px) {
+    .contact-form {
+        height: 70%;
+    }
+
+    .contact-form .textb {
+        height: 10vh;
+    }
+
+    .textb .inputfi {
+        font-size: 12px;
+    }
+
+    .textb .inputla {
+        font-size: 14px;
+    }
+}
+
 /* Articles */
 .row {
     flex-direction: column;
