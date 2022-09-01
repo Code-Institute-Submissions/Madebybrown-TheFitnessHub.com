@@ -74,6 +74,7 @@ ul {
 
 .logo {
     color: whitesmoke;
+    text-shadow: 2px 2px #00000038;
 }
 
 /* Header */
