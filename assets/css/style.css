@@ -344,7 +344,7 @@ p   {
 
 .contact-btn {
     display: inline-block;
-    background: #fc036b;
+    background: rgb(255, 0, 0);;
     padding: 14px 0;
     color: whitesmoke;
     font-weight: bold;
