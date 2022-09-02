@@ -463,6 +463,38 @@ p   {
     }
 }
 
+@media only screen and (max-width:350px) {
+    
+    .explore-content h2 {
+        margin: 20px;
+    }
+
+    .explore-content .line {
+        margin-bottom: 20px;
+    }
+
+    .back-to-top {
+        padding: 25px;
+    }
+    
+    .contact-form {
+        height: 75%;
+        top: 55%;
+    }
+
+    .contact-form .textb {
+        height: 10vh;
+    }
+
+    .textb .inputfi {
+        font-size: 12px;
+    }
+
+    .textb .inputla {
+        font-size: 14px;
+    }
+}
+
 /* Animations */
 img {
     transition: transform .3s ease;
