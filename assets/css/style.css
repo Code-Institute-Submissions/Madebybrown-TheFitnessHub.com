@@ -362,11 +362,13 @@ p   {
     .navbar {
         padding: 0;
     }
+
     .logo {
         position: absolute;
         top: 30px;
         left: 30px;
     }
+
     .nav-links {
         flex-direction: row;
         width: 100%;
@@ -384,92 +386,10 @@ p   {
 
     .nav-links li {
         margin: 30px auto;
-    }
-}
-
-@media only screen and (max-width:350px) {
-    .menu-btn {
-        display: block;
-    }
-    
-    .navbar {
-        padding: 0;
-    }
-    .logo {
-        position: absolute;
-        top: 30px;
-        left: 30px;
-    }
-    .nav-links {
-        flex-direction: row;
-        width: 100%;
-        height: 50vh;
-        justify-content: center;
-        background: rgba(185, 185, 185, 0.863);
-        margin-top: -1400px;
-        transition: all 0.5s ease;
-        z-index: 5;
-    }
-
-    .mobile-menu {
-        margin-top: 0px;
-    }
-
-    .nav-links li {
-        margin: 30px auto;
-    }
-
-    .header-content {
-        padding-bottom: 50px;
-    }
-
-    .header-content h2 {
-        margin-bottom: 0;
-    }
-
-    .explore-content p {
-        font-size: 10px;
-    }
-    
-    @media only screen and (max-width:350px)  {
-    
-        .explore-content h2 {
-            margin: 20px;
-        }
-    
-        .explore-content .line {
-            margin-bottom: 20px;
-        }
-    
-        .back-to-top {
-            padding: 25px;
-        }
-        
-        .contact-form {
-            height: 75%;
-            top: 55%;
-        }
-    
-        .contact-form .textb {
-            height: 10vh;
-        }
-    
-        .textb .inputfi {
-            font-size: 10px;
-        }
-    
-        .textb .inputla {
-            font-size: 11px;
-        }
-    
-        .textb input, .textb textarea {
-            margin-top: 4px;
-        }
     }
 }
 
 @media only screen and (max-width:470px) {
-    
     .explore-content h2 {
         margin: 20px;
     }
@@ -503,17 +423,103 @@ p   {
     .header-content {
         padding-bottom: 15px;
     }
+
     .explore-content .line {
         margin-bottom: 20px;
     }
+
     .explore-content h2 {
         margin: 10px;
     }
+
     .explore-content p {
         font-size: 12px;
     }
+    
     .back-to-top {
         padding: 10px;
+    }
+}
+
+@media only screen and (max-width:350px) {
+    .menu-btn {
+        display: block;
+    }
+    
+    .navbar {
+        padding: 0;
+    }
+
+    .logo {
+        position: absolute;
+        top: 30px;
+        left: 30px;
+    }
+
+    .nav-links {
+        flex-direction: row;
+        width: 100%;
+        height: 50vh;
+        justify-content: center;
+        background: rgba(185, 185, 185, 0.863);
+        margin-top: -1400px;
+        transition: all 0.5s ease;
+        z-index: 5;
+    }
+
+    .mobile-menu {
+        margin-top: 0px;
+    }
+
+    .nav-links li {
+        margin: 30px auto;
+    }
+
+    .header-content {
+        padding-bottom: 50px;
+    }
+
+    .header-content h2 {
+        margin-bottom: 0;
+    }
+
+    .explore-content p {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width:350px)  {
+    .explore-content h2 {
+        margin: 20px;
+    }
+
+    .explore-content .line {
+        margin-bottom: 20px;
+    }
+
+    .back-to-top {
+        padding: 25px;
+    }
+    
+    .contact-form {
+        height: 75%;
+        top: 55%;
+    }
+
+    .contact-form .textb {
+        height: 10vh;
+    }
+
+    .textb .inputfi {
+        font-size: 10px;
+    }
+
+    .textb .inputla {
+        font-size: 11px;
+    }
+
+    .textb input, .textb textarea {
+        margin-top: 4px;
     }
 }
 

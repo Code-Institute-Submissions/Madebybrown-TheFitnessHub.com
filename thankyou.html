@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
+
     <!-- Navbar -->
     <nav class="navbar" id="1">
         <h1 class="logo"><a href="index.html">THE FITNESS HUB</a></h1>
@@ -21,6 +22,7 @@
         <img src="assets/images/menu.jpg" alt="Menu Icon" class="menu-btn">
     </nav>
 
+    <!-- Confirmation Message upon submitting contact form -->
     <header>
         <div class="header-content">
             <h3>The Fitness Hub</h3>
@@ -30,7 +32,8 @@
         </div>
     </header>
 
-<!-- Menu button script -->
+<!-- menu button script, when screen size width is bellow 850px, nav-links will be hidden up top (Outside of viewport), 
+    this script will toggle upon menu-btn being clicked and the nav-links will slide down, click again will untoggle script -->
     <script>
         const menuBtn = document.querySelector('.menu-btn')
         const navlinks = document.querySelector('.nav-links')
@@ -39,7 +42,8 @@
             navlinks.classList.toggle('mobile-menu')
         })
     </script>
-    <!-- font awesome script-->
+    
+    <!-- font awesome script, in case icons will be used in future updates-->
     <script src="https://kit.fontawesome.com/1b5c6f5f59.js" crossorigin="anonymous"></script>
 </body>
 </html>
