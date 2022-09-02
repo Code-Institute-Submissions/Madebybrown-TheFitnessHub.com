@@ -430,6 +430,42 @@ p   {
     .explore-content p {
         font-size: 10px;
     }
+    
+    @media only screen and (max-width:350px)  {
+    
+        .explore-content h2 {
+            margin: 20px;
+        }
+    
+        .explore-content .line {
+            margin-bottom: 20px;
+        }
+    
+        .back-to-top {
+            padding: 25px;
+        }
+        
+        .contact-form {
+            height: 75%;
+            top: 55%;
+        }
+    
+        .contact-form .textb {
+            height: 10vh;
+        }
+    
+        .textb .inputfi {
+            font-size: 10px;
+        }
+    
+        .textb .inputla {
+            font-size: 11px;
+        }
+    
+        .textb input, .textb textarea {
+            margin-top: 4px;
+        }
+    }
 }
 
 @media only screen and (max-width:470px) {
@@ -463,42 +499,6 @@ p   {
     }
 }
 
-@media only screen and (max-width:350px)  {
-    
-    .explore-content h2 {
-        margin: 20px;
-    }
-
-    .explore-content .line {
-        margin-bottom: 20px;
-    }
-
-    .back-to-top {
-        padding: 25px;
-    }
-    
-    .contact-form {
-        height: 75%;
-        top: 55%;
-    }
-
-    .contact-form .textb {
-        height: 10vh;
-    }
-
-    .textb .inputfi {
-        font-size: 10px;
-    }
-
-    .textb .inputla {
-        font-size: 11px;
-    }
-
-    .textb input, .textb textarea {
-        margin-top: 4px;
-    }
-}
-
 @media only screen and (min-width: 375px) and (orientation: landscape) {
     .header-content {
         padding-bottom: 15px;
@@ -514,11 +514,6 @@ p   {
     }
     .back-to-top {
         padding: 10px;
-    }
-
-    .contact-form {
-        height: 300px;
-        top: 58%;
     }
 }
 
