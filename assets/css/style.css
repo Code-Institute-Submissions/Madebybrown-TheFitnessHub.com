@@ -487,11 +487,15 @@ p   {
     }
 
     .textb .inputfi {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .textb .inputla {
-        font-size: 14px;
+        font-size: 11px;
+    }
+
+    .textb input, .textb textarea {
+        margin-top: 4px;
     }
 }
 
