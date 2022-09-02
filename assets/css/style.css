@@ -109,7 +109,7 @@ header {
 .header-content h2 {
     font-size: 7vmin;
     margin-top: 50px;
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
 }
 
 .header-content p {
@@ -387,9 +387,17 @@ p   {
     .nav-links li {
         margin: 30px auto;
     }
+
+    .header-content {
+        margin: 0;
+    }
 }
 
 @media only screen and (max-width:470px) {
+    .header-content h3 {
+        font-size: 6vmin;
+    }
+    
     .explore-content h2 {
         margin: 20px;
     }
@@ -422,6 +430,7 @@ p   {
 @media only screen and (min-width: 375px) and (orientation: landscape) {
     .header-content {
         padding-bottom: 15px;
+        margin-bottom: 100px;
     }
 
     .explore-content .line {
@@ -477,6 +486,7 @@ p   {
 
     .header-content {
         padding-bottom: 50px;
+        margin-bottom: 100px;
     }
 
     .header-content h2 {
