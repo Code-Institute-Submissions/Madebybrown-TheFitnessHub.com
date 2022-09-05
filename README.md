@@ -266,19 +266,20 @@ Style.html
 
 ## Credit Section
 - [**Contact Form**](https://youtu.be/f0DcnrpeBv8)
- - The template for the contact form
+    - The template for the contact form.
 - [**Flex direction**](https://www.youtube.com/watch?v=ujXa2wQnAuU)
- - How to place elements with flex direction
+    - How to place elements with flex direction.
 - [**Flexbox**](https://www.youtube.com/watch?v=u044iM9xsWU)
- - How to use flexbox to build the structure of the website
+    - How to use flexbox to build the structure of the website.
 - [**Smooth scroll effect**](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
+    - How to create smooth scroll effect for the menu bar auto slide to section.
 - [**CSS units**](https://www.youtube.com/watch?v=N5wpD9Ov_To)
- - What unit to use when, where, and why.
+    - What unit to use when, where, and why.
 - [**Navbar**](https://www.youtube.com/watch?v=PwWHL3RyQgk)
- - Understanding the navbar
+    - Understanding the navbar.
 - [**CSS selector reference**](https://www.w3schools.com/cssref/css_selectors.asp)
- - List of CSS selectors
+    - List of CSS selectors.
 - [**Pexels.com**](https://www.pexels.com/)
- - pictures was taken from pexels.
+    - pictures was taken from pexels.
 
 ## [Back To The Top](#description)
