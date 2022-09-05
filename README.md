@@ -267,7 +267,7 @@ Style.html
 
 ## Unresolved
 ### Problem
-<p>This problem is only visible on a mobile phone, the bar doesn't stay consistent and true to the original design, I have a hard time trying to figure out how to fix it because I can't create the same effect in Chrome Developer Tools, even though I use the same width and height as an iPhone 7.</p>
+<p>This problem is only visible on a mobile phone, the Send! button doesn't stay consistent and true to the original design, I have a hard time trying to figure out how to fix it because I can't create the same effect in Chrome Developer Tools, even though I use the same width and height as an iPhone 7.</p>
 
 ![contactpage](imagesreadme/contactformsend.png)
 
