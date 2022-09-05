@@ -1,12 +1,12 @@
 <h1 align="center">The Fitness Hub</h1>
-<p align="center">The Fitness Hub is made for the health & fitness enthusiast!</p>
+<p align="center">The Fitness Hub, a place for the health & fitness enthusiast!</p>
 
 ## Discription
 <p>The Fitness Hub is a health & fitness focused site where you will be able to find the latest research articles regarding health & fitness.
 
 A future feature is the possibility to create your own login account and get access to more useful features, one being able to save articles for reading later or to be shared with your friends.
+</p>
 
-The Fitness Hub is built using HTML & CSS and I did run into alot of obstacles while building it, one of them being the positioning and the size of contents on different screen sizes, and also the contact form overlapping the drop down menu. Images will be found further down.</p>
 <br>
 
 ## Key Goals
