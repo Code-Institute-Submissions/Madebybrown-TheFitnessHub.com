@@ -176,16 +176,16 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 <br>
 
 ## Testing
-<p>The Fitness Hub has been tested in this different ways:</p>
+<p>The Fitness Hub has been tested in these different ways:</p>
 
 - Code Validation
     - W3C HTML Validator
 <br>
-Index.html
+#### Index
 ![Index Validation](imagesreadme/validation.png)
-Contact.html
+#### Contact
 ![Contact Validation](imagesreadme/validation.png)
-Thankyou.html
+#### Thankyou
 ![Thank You Validation](imagesreadme/validation.png)
 
 - Code Validation
