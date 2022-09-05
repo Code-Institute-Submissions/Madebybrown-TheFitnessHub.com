@@ -25,6 +25,10 @@ ul {
     list-style: none;
 }
 
+/* h1 {
+    color: rgb(255, 0, 0);;
+} */
+
 /* Navbar */
 .navbar {
     position: absolute;
@@ -60,7 +64,7 @@ ul {
 }
 
 .navbar a {
-    color: rgb(255, 0, 0);
+    color: whitesmoke;
     font-weight: bold;
 }
 
@@ -73,6 +77,12 @@ ul {
 .logo {
     color: whitesmoke;
     text-shadow: 2px 2px #00000038;
+}
+
+.logo > a {
+    color: whitesmoke;
+    background: black;
+    padding: 10px;
 }
 
 /* Header */
@@ -122,9 +132,9 @@ header {
 
 .ctn {
     padding: 8px 15px;
-    background: whitesmoke;
+    background: black;
     border-radius: 15px;
-    color: rgb(255, 0, 0);
+    color: whitesmoke;
 }
 
 .menu-btn {

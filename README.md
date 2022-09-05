@@ -1,6 +1,28 @@
 <h1 align="center">The Fitness Hub</h1>
 <p align="center">The Fitness Hub is made for the health & fitness enthusiast!</p>
 
+## Discription
+<p>The Fitness Hub is a health & fitness focused site where you will be able to find the latest research articles regarding health & fitness.
+
+A future feature is the possibility to create your own login account and get access to more useful features, one being able to save articles for reading later or to be shared with your friends.
+
+The Fitness Hub is built using HTML & CSS and I did run into alot of obstacles while building it, one of them being the positioning and the size of contents on different screen sizes, and also the contact form overlapping the drop down menu. Images will be found further down.</p>
+<br>
+
+## Key Goals
+- To showcase my competency as a developer using HTML & CSS.
+- To problem solve and tackle challenges that forces me to learn more.
+
+### External Goals
+- To create a website that solves the questions regarding where to find up to date information regarding research on health & fitness.
+
+<br>
+
+## Target Audience
+<p>Health & Fitness enthusiasts, personal trainers.</p>
+
+<br>
+
 ## Live Site
 [TheFitnessHub](https://madebybrown.github.io/FitnessHub.com/)
 
@@ -12,35 +34,19 @@
 - [Discription](#discription)
 - [Key Goals](#key-goals)
 - [Target Audience](#target-audience)
-- [Built With](#built-with)
 - [Screenshots](#screenshots)
 - [Features](#features)
     - [Home / Navigation Bar](#home--navigation-bar)
     - [Featured Articles](#featured-articles)
     - [Explore](#explore)
     - [Thank You](#thank-you-page)
-- [Links](#)
+    - [Footer](#footer)
+- [Built With](#built-with)
+- [Testing](#testing)
+    - [Lighthouse](#lighthouse)
+    - [Responsiveness](#responsiveness)
+    - [Bugs](#bugs)
 - [Credit Section](#credit-section)
-
-<br>
-
-## Discription
-<p>The Fitness Hub is a health & fitness focused site where you will be able to find the latest research articles regarding health & fitness, in the future you will have the possibility to create your own login account and get access to more useful features, one being able to save articles to be read later or to be shared with your friends.
-
-The Fitness Hub is built using HTML & CSS and I did run into alot of obstacles while building it, one of them being the positioning and the size of contents on different screen sizes, and also the contact form overlapping the drop down menu. Images will be found further down.</p>
-<br>
-
-## Key Goals
-- To showcase my eye for front end design and my competency as a developer using HTML & CSS.
-- To problem solve and tackle challenges that forces me to learn more.
-
-### External Goals
-- To create a website that solves the questions regarding where to find up to date information regarding research on health & fitness.
-
-<br>
-
-## Target Audience
-<p>Health & Fitness enthusiasts, personal trainers.</p>
 
 <br>
 
