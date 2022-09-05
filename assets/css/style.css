@@ -60,12 +60,12 @@ ul {
 }
 
 .navbar a {
-    color: whitesmoke;
+    color: rgb(255, 0, 0);
     font-weight: bold;
 }
 
 .navbar a:hover {
-    color: rgb(255, 0, 0);;
+    color: rgb(255, 0, 0);
     text-decoration: underline;
     font-weight: bold;
 }
@@ -122,9 +122,9 @@ header {
 
 .ctn {
     padding: 8px 15px;
-    background: black;
+    background: whitesmoke;
     border-radius: 15px;
-    color: whitesmoke;
+    color: rgb(255, 0, 0);
 }
 
 .menu-btn {
