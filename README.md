@@ -22,7 +22,10 @@
 <br>
 
 ## Description
-<p>The Fitness Hub is a website that aims to provide its visitors with the latest research articles regarding health & fitness.</p>
+<p>The Fitness Hub is a website that aims to provide its visitors with the latest research articles regarding health & fitness.
+
+If you're as passionate about health & fitness as we are, then The Fitness Hub is the perfect website for you!
+</p>
 
 <br>
 
