@@ -70,13 +70,11 @@ ul {
 
 .navbar a:hover {
     color: rgb(255, 0, 0);
-    text-decoration: underline;
     font-weight: bold;
 }
 
 .logo {
     color: whitesmoke;
-    text-shadow: 2px 2px #00000038;
 }
 
 .logo > a {
