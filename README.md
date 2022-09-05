@@ -1,37 +1,8 @@
 <h1 align="center">The Fitness Hub</h1>
 <p align="center">The Fitness Hub, a place for the health & fitness enthusiast!</p>
 
-## Discription
-<p>The Fitness Hub is a health & fitness focused site where you will be able to find the latest research articles regarding health & fitness.
-
-A future feature is the possibility to create your own login account and get access to more useful features, one being able to save articles for reading later or to be shared with your friends.
-</p>
-
-<br>
-
-## Key Goals
-- To showcase my competency as a developer using HTML & CSS.
-- To problem solve and tackle challenges that forces me to learn more.
-
-### External Goals
-- To create a website that solves the questions regarding where to find up to date information regarding research on health & fitness.
-
-<br>
-
-## Target Audience
-<p>Health & Fitness enthusiasts, personal trainers.</p>
-
-<br>
-
-## Live Site
-[TheFitnessHub](https://madebybrown.github.io/FitnessHub.com/)
-
-## Links
-- [Repository](https://github.com/Madebybrown/FitnessHub.com)
-- [Linkedin](https://www.linkedin.com/in/alexander-jonsson-312a70248/)
-
 ## Table Of Contents
-- [Discription](#discription)
+- [Description](#discription)
 - [Key Goals](#key-goals)
 - [Target Audience](#target-audience)
 - [Screenshots](#screenshots)
@@ -50,12 +21,40 @@ A future feature is the possibility to create your own login account and get acc
 
 <br>
 
+## Description
+<p>The Fitness Hub is a website that aims to provide its visitors with the latest research articles regarding health & fitness.</p>
+
+<br>
+
+## Key Goals
+- To showcase my competency as a developer using HTML & CSS.
+- To problem solve and tackle challenges that force me to learn more about good coding practices.
+
+### External Goals
+- To create a website that solves the questions regarding where to find up-to-date information regarding research on health & fitness.
+
+<br>
+
+## Target Audience
+<p>Health & Fitness enthusiasts, personal trainers.</p>
+
+<br>
+
+## Live Site
+[TheFitnessHub](https://madebybrown.github.io/FitnessHub.com/)
+
+## Links
+- [Repository](https://github.com/Madebybrown/FitnessHub.com)
+- [Linkedin](https://www.linkedin.com/in/alexander-jonsson-312a70248/)
+
+<br>
+
 ## Screenshots
 ![Home Page](imagesreadme/amiresponsive.png)
 <p></p>
 
 ## Features
-<p>The website contains common features, a navbar at the top of the page that sticks to the top while scrolling down and collapses into a hamburger menu when used on smaller screens, it's intended purpose is to be straight forward and easy to use among all the sections and pages.</p>
+<p>The website contains common features, a navbar at the top of the page that sticks to the top while scrolling down and collapses into a hamburger menu when used on smaller screens, its intended purpose is to be easy to use among all the sections and pages.</p>
 
 ## Home / Navigation bar
 ![Navbar](imagesreadme/navbar.png)
@@ -79,7 +78,7 @@ A future feature is the possibility to create your own login account and get acc
 <br>
 
 ## Featured Articles
-<p>The featured articles section is where the newest articles are displayed, the user can reach this section by scrolling down or use the navigation menu.
+<p>The featured articles section is where the newest articles are displayed, the user can reach this section by scrolling down or using the navigation menu.
 
 The purpose of this section is to showcase the latest articles by giving a snippet of what the article is about and then prompt the reader to read more about the subject.
 </p>
@@ -99,7 +98,7 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 <br>
 
 ## Explore
-<p>The purpose of the explore section is to display one single article, mostly regarding general health advice that are easy to implement for most people. The sections also includes a "Back to top" link for an easy return to the top.</p>
+<p>The purpose of the explore section is to display one single article, mostly regarding general health advice that is easy to implement for most people. The sections also include a "Back to top" link for an easy return to the top.</p>
 
 <br>
 
@@ -116,7 +115,7 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 <br>
 
 ## Contact
-<p>The contact page is where the visitor have the ability to send us their thoughts regarding anything on the site. There are requirements to enter a name and an email address, and the option to include their phone number if they feel the need to be contacted via a phone message.</p>
+<p>The contact page is where the visitor can send us their thoughts regarding anything on the site. There are requirements to enter a name and an email address, and the option to include their phone number if they feel the need to be contacted via a phone message.</p>
 
 <br>
 
@@ -150,7 +149,7 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 <br>
 
 ## Footer
-<p>Footer with my perosnal social links to github repo and linkedin.</p>
+<p>Footer with my social links to GitHub repo and LinkedIn.</p>
 
 <br>
 
@@ -164,11 +163,11 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 
 ## Technologies Used
 - [HTML5](https://sv.wikipedia.org/wiki/HTML5) - Provides structure and content to site
-- [CSS](https://en.wikipedia.org/wiki/CSS) - To give html style rules
-- [Github](https://github.com/) - Used to start project and deploy
+- [CSS](https://en.wikipedia.org/wiki/CSS) - To give HTML style rules
+- [Github](https://github.com/) - Used to start the project and deploy
 - [Gitpod](https://www.gitpod.io/) - Used to host and create the site
 - [Google Fonts](https://fonts.google.com/about) - Import fonts to the site
-- [Over / Godaddy Studio](https://studio.godaddy.com/login) - Used to manilpulate images
+- [Over / Godaddy Studio](https://studio.godaddy.com/login) - Used to manipulate images
 - [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - Used throughout the whole project to overview the responsiveness and make style changes to implement
 - [Am I Responsive](https://ui.dev/amiresponsive) - Used to create mockup images of site on different devices
 - [Color Mind](http://colormind.io/) - Used to find colors that match together
@@ -201,12 +200,12 @@ Style.html
 ## Lighthouse
 - Lighthouse was used to test the sites: 
     - Performance - How the page performs during loading.
-    - Accessibility - How accessible is the site and how can it be improved.
-    - Best Practices - How does the site live up to industry best practices.
-    - SEO - Search engine optimisation.
+    - Accessibility - How accessible is the site and how can it be improved?
+    - Best Practices - How does the site live up to industry best practices?
+    - SEO - Search engine optimization.
 <br>
 
-<p>After a few test and changes I managed to increase the score by changing image formats and adding meta discription to the head.</p>
+<p>After a few tests and changes I managed to increase the score by changing image formats and adding a meta description to the head.</p>
 
 <br>
 
@@ -222,17 +221,17 @@ Style.html
 ## Responsiveness
 - I tested the responsive design with [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
     - Ipad air & mini
-    - Iphone SE, XR and 12Pro
+    - iPhone SE, XR, and 12Pro
     - Pixel 5
     - Samsung Galaxy S8, S20 Ultra, A51/71
-    - Surface pro 7 & duo
+    - Surface Pro 7 & duo
     - Galaxy Fold
     - Nest Hub & Hub Max
 
-    I also tested the site on Iphone 7, Iphone 8, on a lenovo legion 5, the only issue i've encountered is that on the iphone 7 and 8 2 site elements didnt fit the screen, this can be fixed in the future with better media queries.
+    I also tested the site on iPhone 7, iPhone 8, and a Lenovo legion 5, the only issue I've encountered is that on the iPhone 7 and 8 2 site elements didn't fit the screen, this can be fixed in the future with better media queries.
 
 ## Browsers
-- The site was tested on Google chrome, Michrosoft edge and safari. There was no issues with any of the browsers and the design looked consistent on all the browsers.
+- The site was tested on Google Chrome, Microsoft Edge, and Safari. There were no issues with any of the browsers and the design looked consistent on all the browsers.
 
 ## Bugs
 ### Problem
@@ -243,9 +242,9 @@ Style.html
 <br>
 
 ## Unresolved
-### Problem - Form won't fit the screen on iphone 7 and 8, if i had more time i would solve the problem by experimenting with the current code.
+### Problem - The form won't fit the screen on iPhone 7 and 8, if I had more time I would solve the problem by experimenting with the current code.
 ![Contactpage](imagesreadme/contactform.JPG)
-### Problem - The explore section won't fit the screen on iphone 7 and 8, if i had more time i would solve the problem by experimenting with the current code.
+### Problem - The explore section won't fit the screen on iPhone 7 and 8, if I had more time I would solve the problem by experimenting with the current code.
 ![backtop](imagesreadme/backtop.PNG)
 
 ## Credit Section
@@ -253,8 +252,8 @@ Style.html
 - [**Flex direction**](https://www.youtube.com/watch?v=ujXa2wQnAuU)
 - [**Flexbox**](https://www.youtube.com/watch?v=u044iM9xsWU)
 - [**Smooth scroll effect**](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
-- [**Css units**](https://www.youtube.com/watch?v=N5wpD9Ov_To)
+- [**CSS units**](https://www.youtube.com/watch?v=N5wpD9Ov_To)
 - [**Navbar**](https://www.youtube.com/watch?v=PwWHL3RyQgk)
-- [**css selector reference**](https://www.w3schools.com/cssref/css_selectors)
+- [**CSS selector reference**](https://www.w3schools.com/cssref/css_selectors)
 
-## [Back To The Top](#discription)
+## [Back To The Top](#description)
