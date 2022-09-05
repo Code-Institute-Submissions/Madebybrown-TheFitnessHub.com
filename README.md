@@ -245,7 +245,7 @@ Style.html
     - Galaxy Fold
     - Nest Hub & Hub Max
 
-    I also tested the site on iPhone 7, iPhone 8, and a Lenovo legion 5, the only issue I've encountered is that on the iPhone 7 and 8 2 site elements didn't fit the screen, this can be fixed in the future with better media queries.
+    <p>I also tested the site on iPhone 7, iPhone 8, and a Lenovo legion 5, the only issue I've encountered is that on the iPhone 7 and 8 2 site elements didn't fit the screen, this can be fixed in the future with better media queries.</p>
 
 ## Browsers
 - The site was tested on Google Chrome, Microsoft Edge, and Safari. There were no issues with any of the browsers and the design looked consistent on all the browsers.
