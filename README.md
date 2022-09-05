@@ -194,7 +194,12 @@ Style.html
     - Accessibility - How accessible is the site and how can it be improved.
     - Best Practices - How does the site live up to industry best practices.
     - SEO - Search engine optimisation.
+<br>
 
+## First test
+![Lighthouse Laptop](imagesreadme/lighthouselaptop2.png)
+## Second test
+![Lighthouse Laptop](imagesreadme/lighthouselaptop1.png)
 
 ## Credit Section
 - [**Contact Form**](https://youtu.be/f0DcnrpeBv8)
