@@ -51,7 +51,7 @@ A future feature is the possibility to create your own login account and get acc
 <br>
 
 ## Screenshots
-![Home Page](imagesreadme/responsive.png)
+![Home Page](imagesreadme/amiresponsive.png)
 <p></p>
 
 ## Features
