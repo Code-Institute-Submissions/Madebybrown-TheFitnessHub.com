@@ -188,6 +188,13 @@ Thankyou.html
 Style.html
 ![Style Validation](imagesreadme/cssvalidation.png)
 
+## Lighthouse
+- Lighthouse was used to test the sites: 
+    - Performance - How the page performs during loading.
+    - Accessibility - How accessible is the site and how can it be improved.
+    - Best Practices - How does the site live up to industry best practices.
+    - SEO - Search engine optimisation.
+
 
 ## Credit Section
 - [**Contact Form**](https://youtu.be/f0DcnrpeBv8)

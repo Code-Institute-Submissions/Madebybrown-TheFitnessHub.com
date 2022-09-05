@@ -136,7 +136,7 @@ header {
     color: whitesmoke;
     display: none;
     z-index: 6;
-    filter: drop-shadow(5px 5px 5px rgba(34, 34, 34, 0.315));
+    filter: drop-shadow(5px 5px 5px rgba(34, 34, 34, 3.315));
 }
 
 /* Featured Articles */
