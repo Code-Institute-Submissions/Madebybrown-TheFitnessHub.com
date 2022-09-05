@@ -143,7 +143,7 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 
 <br>
 
-## Thank You Page
+## Footer
 <p>Footer with my perosnal social links to github repo and linkedin.</p>
 
 <br>
@@ -196,10 +196,45 @@ Style.html
     - SEO - Search engine optimisation.
 <br>
 
+<p>After a few test and changes I managed to increase the score by changing image formats and adding meta discription to the head.</p>
+
+<br>
+
 ## First test
 ![Lighthouse Laptop](imagesreadme/lighthouselaptop2.png)
 ## Second test
 ![Lighthouse Laptop](imagesreadme/lighthouselaptop1.png)
+## Third test
+![Lighthouse Laptop](imagesreadme/lighthouselaptop3.png)
+
+## Responsiveness
+- I tested the responsive design with [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
+    - Ipad air & mini
+    - Iphone SE, XR and 12Pro
+    - Pixel 5
+    - Samsung Galaxy S8, S20 Ultra, A51/71
+    - Surface pro 7 & duo
+    - Galaxy Fold
+    - Nest Hub & Hub Max
+
+    I also tested the site on Iphone 7, Iphone 8, on a lenovo legion 5, the only issue i've encountered is that on the iphone 7 and 8 2 site elements didnt fit the screen, this can be fixed in the future with better media queries.
+
+## Browsers
+- The site was tested on Google chrome, Michrosoft edge and safari. There was no issues with any of the browsers and the design looked consistent on all the browsers.
+
+## Bugs
+### Problem
+![Contactpage](imagesreadme/contactpage.png)
+### Resolved
+![contactpage](imagesreadme/contactfixed.png)
+
+<br>
+
+## Unresolved
+### Problem - Form won't fit the screen on iphone 7 and 8, if i had more time i would solve the problem by experimenting with the current code.
+![Contactpage](imagesreadme/contactform.JPG)
+### Problem - The explore section won't fit the screen on iphone 7 and 8, if i had more time i would solve the problem by experimenting with the current code.
+![backtop](imagesreadme/backtop.PNG)
 
 ## Credit Section
 - [**Contact Form**](https://youtu.be/f0DcnrpeBv8)
