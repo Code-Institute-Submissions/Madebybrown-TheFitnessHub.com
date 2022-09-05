@@ -83,6 +83,7 @@ ul {
     color: whitesmoke;
     background: black;
     padding: 10px;
+    font-size: 0.9em;
 }
 
 /* Header */
@@ -126,6 +127,7 @@ header {
 .header-content p {
     font-style: italic;
     margin-bottom: 10px;
+    font-size: 3vmin;
     color: white;
     text-shadow: 2px 2px #00000094;
 } 
