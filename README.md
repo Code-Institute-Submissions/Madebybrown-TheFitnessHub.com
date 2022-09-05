@@ -164,6 +164,20 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 
 <br>
 
+## Future Features
+- Account creation - Enables the visitor to save and store interesting articles that they may want to read later or share with their friends and family.
+- Share function - Makes it easier to share articles across other platforms.
+- Article Gallery - A collection of all the articles posted on the website, grouped into categories.
+
+## Deployment
+- The website was deployd using GitHub
+- Enter repositories
+- Locate FitnessHub.com and click it
+- Go to settings
+- On the left hand side is a section called Pages, click it
+- Select the Branch to be "Main" and click save
+- Now wait a few minutes for GitHub to build and deploy your site then refresh the page and at the top of the Pages section you will find the link to your deployd website.
+
 ## Technologies Used
 - [HTML5](https://sv.wikipedia.org/wiki/HTML5) - Provides structure and content to site
 - [CSS](https://en.wikipedia.org/wiki/CSS) - To give HTML style rules
@@ -252,11 +266,19 @@ Style.html
 
 ## Credit Section
 - [**Contact Form**](https://youtu.be/f0DcnrpeBv8)
+ - The template for the contact form
 - [**Flex direction**](https://www.youtube.com/watch?v=ujXa2wQnAuU)
+ - How to place elements with flex direction
 - [**Flexbox**](https://www.youtube.com/watch?v=u044iM9xsWU)
+ - How to use flexbox to build the structure of the website
 - [**Smooth scroll effect**](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
 - [**CSS units**](https://www.youtube.com/watch?v=N5wpD9Ov_To)
+ - What unit to use when, where, and why.
 - [**Navbar**](https://www.youtube.com/watch?v=PwWHL3RyQgk)
-- [**CSS selector reference**](https://www.w3schools.com/cssref/css_selectors)
+ - Understanding the navbar
+- [**CSS selector reference**](https://www.w3schools.com/cssref/css_selectors.asp)
+ - List of CSS selectors
+- [**Pexels.com**](https://www.pexels.com/)
+ - pictures was taken from pexels.
 
 ## [Back To The Top](#description)
