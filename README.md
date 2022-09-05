@@ -181,16 +181,20 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 - Code Validation
     - W3C HTML Validator
 <br>
+
 #### Index
 ![Index Validation](imagesreadme/validation.png)
+
 #### Contact
 ![Contact Validation](imagesreadme/validation.png)
+
 #### Thankyou
 ![Thank You Validation](imagesreadme/validation.png)
 
 - Code Validation
     - W3C HTML Validator
 <br>
+
 Style.html
 ![Style Validation](imagesreadme/cssvalidation.png)
 
