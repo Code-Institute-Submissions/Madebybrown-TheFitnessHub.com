@@ -170,13 +170,13 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 - Article Gallery - A collection of all the articles posted on the website, grouped into categories.
 
 ## Deployment
-- The website was deployd using GitHub
+- The website was deployed using GitHub
 - Enter repositories
 - Locate FitnessHub.com and click it
 - Go to settings
-- On the left hand side is a section called Pages, click it
+- On the left-hand side is a section called Pages, click it
 - Select the Branch to be "Main" and click save
-- Now wait a few minutes for GitHub to build and deploy your site then refresh the page and at the top of the Pages section you will find the link to your deployd website.
+- Now wait a few minutes for GitHub to build and deploy your site then refresh the page and at the top of the Pages section you will find the link to your deployed website.
 
 ## Technologies Used
 - [HTML5](https://sv.wikipedia.org/wiki/HTML5) - Provides structure and content to site
@@ -262,27 +262,30 @@ Style.html
 ### Problem
 ![backtop](imagesreadme/backtop.PNG)
 ### Resolved
-![contactpage](imagesreadme/backtopfixed.PNG)
+![backtop](imagesreadme/backtopfixed.PNG)
 <br>
 
 ## Unresolved
+### Problem
+<p>This problem is only visible on a mobile phone, the bar doesn't stay consistent and true to the original design, I have a hard time trying to figure out how to fix it because I can't create the same effect in Chrome Developer Tools, even though I use the same width and height as an iPhone 7.</p>
+![contactpage](imagesreadme/contactformsend.png)
 
 ## Credit Section
 - [**Contact Form**](https://youtu.be/f0DcnrpeBv8)
     - The template for the contact form.
 - [**Flex direction**](https://www.youtube.com/watch?v=ujXa2wQnAuU)
-    - How to place elements with flex direction.
+    - How to place elements with flex-direction.
 - [**Flexbox**](https://www.youtube.com/watch?v=u044iM9xsWU)
     - How to use flexbox to build the structure of the website.
 - [**Smooth scroll effect**](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
-    - How to create smooth scroll effect for the menu bar auto slide to section.
+    - How to create a smooth scroll effect for the menu bar auto slide to section.
 - [**CSS units**](https://www.youtube.com/watch?v=N5wpD9Ov_To)
-    - What unit to use when, where, and why.
+    - What unit to use when, where, and why?
 - [**Navbar**](https://www.youtube.com/watch?v=PwWHL3RyQgk)
     - Understanding the navbar.
 - [**CSS selector reference**](https://www.w3schools.com/cssref/css_selectors.asp)
     - List of CSS selectors.
 - [**Pexels.com**](https://www.pexels.com/)
-    - pictures was taken from pexels.
+    - pictures were taken from Pexels.com
 
 ## [Back To The Top](#description)
