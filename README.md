@@ -255,14 +255,17 @@ Style.html
 ![Contactpage](imagesreadme/contactpage.png)
 ### Resolved
 ![contactpage](imagesreadme/contactfixed.png)
-
+### Problem
+![Contactpage](imagesreadme/contactform.JPG)
+### Resolved
+![contactpage](imagesreadme/contactformfixed.PNG)
+### Problem
+![backtop](imagesreadme/backtop.PNG)
+### Resolved
+![contactpage](imagesreadme/backtopfixed.PNG)
 <br>
 
 ## Unresolved
-### Problem - The form won't fit the screen on iPhone 7 and 8, if I had more time I would solve the problem by experimenting with the current code.
-![Contactpage](imagesreadme/contactform.JPG)
-### Problem - The explore section won't fit the screen on iPhone 7 and 8, if I had more time I would solve the problem by experimenting with the current code.
-![backtop](imagesreadme/backtop.PNG)
 
 ## Credit Section
 - [**Contact Form**](https://youtu.be/f0DcnrpeBv8)
