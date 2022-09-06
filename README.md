@@ -66,21 +66,27 @@ If you're as passionate about health & fitness as we are, then The Fitness Hub i
 <p>The website contains common features, a navbar at the top of the page that sticks to the top while scrolling down and collapses into a hamburger menu when used on smaller screens, its intended purpose is to be easy to use among all the sections and pages.</p>
 
 ## Home / Navigation bar
+<p>Navigation bar on desktop, website logo to the left and navigation links to the right.</p>
+
 ![Navbar](imagesreadme/navbar.png)
 
 <br>
+<p>Navigation bar on mobile, website logo to the left and hamburger menu to the right.</p>
 
 ![Navbar Mobile](imagesreadme/navbarmobile.png)
 
 <br>
+<p>Home section on desktop with Ethos / Article link in the middle.</p>
 
 ![Home](imagesreadme/home.png)
 
 <br>
+<p>Home section on mobile with Ethos / Article link in the middle.</p>
 
 ![Home Mobile](imagesreadme/homemobile.png)
 
 <br>
+<p>Home section on mobile, with drop down menu</p>
 
 ![Home Mobile Menu](imagesreadme/homemobilemenu.png)
 
@@ -93,14 +99,17 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 </p>
 
 <br>
+<p>Featured article section on desktop</p>
 
 ![Featured Articles](imagesreadme/featuredarticles.png)
 
 <br>
+<p>Featured article section on mobile</p>
 
 ![Featured Articles Mobile](imagesreadme/featuredarticlesmobile.png)
 
 <br>
+<p>Featured article section on mobile with drop down menu</p>
 
 ![Featured Articles Mobile Menu](imagesreadme/featuredarticlesmobilemenu.png)
 
@@ -110,14 +119,17 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 <p>The purpose of the explore section is to display one single article, mostly regarding general health advice that is easy to implement for most people. The sections also include a "Back to top" link for an easy return to the top.</p>
 
 <br>
+<p>Explore section on desktop</p>
 
 ![Explore](imagesreadme/explore.png)
 
 <br>
+<p>Explore section on mobile</p>
 
 ![Explore Mobile](imagesreadme/exploremobile.png)
 
 <br>
+<p>Explore section on mobile with drop down menu</p>
 
 ![Explore Mobile Menu](imagesreadme/exploremobilemenu.png)
 
@@ -127,14 +139,17 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 <p>The contact page is where the visitor can send us their thoughts regarding anything on the site. There are requirements to enter a name and an email address, and the option to include their phone number if they feel the need to be contacted via a phone message.</p>
 
 <br>
+<p>Contact page on desktop</p>
 
 ![Contact](imagesreadme/contact.png)
 
 <br>
+<p>Contact page on mobile</p>
 
 ![Contact Mobile](imagesreadme/contactmobile.png)
 
 <br>
+<p>Contact page on mobile with drop down menu</p>
 
 ![Contact Mobile Menu](imagesreadme/contactmobilemenu.png)
 
@@ -144,14 +159,17 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 <p>A page to show gratitude to the visitor for sharing their thoughts with us.</p>
 
 <br>
+<p>Thank you page on desktop</p>
 
 ![Thank You](imagesreadme/thankyou.png)
 
 <br>
+<p>Thank you page on mobile</p>
 
 ![Thank You Mobile](imagesreadme/thankyoumobile.png)
 
 <br>
+<p>Thank you page on mobile with drop down menu</p>
 
 ![Thank You Mobile Menu](imagesreadme/thankyoumobilemenu.png)
 
@@ -161,10 +179,12 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 <p>Footer with my social links to GitHub repo and LinkedIn.</p>
 
 <br>
+<p>Footer on desktop</p>
 
 ![Footer](imagesreadme/footer.png)
 
 <br>
+<p>Footer on mobile</p>
 
 ![Footer Mobile](imagesreadme/footermobile.png)
 
@@ -275,7 +295,7 @@ Style.html
     - Galaxy Fold
     - Nest Hub & Hub Max
 
-    <p>I also tested the website on iPhone 7, iPhone 8, and a Lenovo legion 5, the only issue I've encountered is that on the iPhone 7 and 8 one element didn't stay consistent to its original design, check out [Unresolved](#unresolved) section for pictures.</p>
+    <p>I also tested the website on iPhone 7, iPhone 8, and a Lenovo legion 5, the only issue I've encountered is that on the iPhone 7 and 8 one element didn't stay consistent to its original design, check out</p> [Unresolved](#unresolved) <p>section for pictures.</p>
 
 ## Browsers
 - The site was tested on Google Chrome, Microsoft Edge, and Safari. There were no issues with any of the browsers and the design looked consistent on all the browsers.
