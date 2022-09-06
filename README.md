@@ -57,7 +57,7 @@ If you're as passionate about health & fitness as we are, then The Fitness Hub i
 <br>
 
 ## Social Links
-- [Repository](https://github.com/Madebybrown/FitnessHub.com)
+- [Repository](https://github.com/Madebybrown/TheFitnessHub.com.git)
 - [Linkedin](https://www.linkedin.com/in/alexander-jonsson-312a70248/)
 
 <br>
