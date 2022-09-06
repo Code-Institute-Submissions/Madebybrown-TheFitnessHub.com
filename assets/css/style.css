@@ -242,7 +242,7 @@ p   {
     color: whitesmoke;
     padding: 0;
     margin-top: 0;
-    font-size: 3.5vmin;
+    font-size: 4.2vmin;
 }
 
 .explore-content .ctn {
@@ -411,6 +411,8 @@ p   {
     }
 }
 
+/* When screen width is smaller than 470 px, makes elements in header, explore
+and contact form appear in the right scale */
 @media only screen and (max-width:470px) {
     .header-content h3 {
         font-size: 6vmin;
@@ -445,6 +447,8 @@ p   {
     }
 }
 
+/* When screen width is larger than 375px and the hight is smaller than the width of the screen, 
+makes elements in header and explore appear in right scale. */
 @media only screen and (min-width: 375px) and (orientation: landscape) {
     .header-content {
         padding-bottom: 15px;
@@ -464,6 +468,7 @@ p   {
     }
 }
 
+/* When screen width is smaller than 350px adds further style to elements to fit and scale porperly */
 @media only screen and (max-width:350px) {
     .menu-btn {
         display: block;
@@ -510,9 +515,7 @@ p   {
     .explore-content p {
         font-size: 0.8em;
     }
-}
 
-@media only screen and (max-width:350px)  {
     .explore-content h2 {
         margin: 20px;
     }
@@ -547,7 +550,43 @@ p   {
     }
 }
 
-/* Animations */
+
+/* @media only screen and (max-width:350px)  {
+    .explore-content h2 {
+        margin: 20px;
+    }
+
+    .explore-content .line {
+        margin-bottom: 20px;
+    }
+
+    .back-to-top {
+        padding: 25px;
+    }
+    
+    .contact-form {
+        height: 75%;
+        top: 55%;
+    }
+
+    .contact-form .textb {
+        height: 10vh;
+    }
+
+    .textb .inputfi {
+        font-size: 10px;
+    }
+
+    .textb .inputla {
+        font-size: 11px;
+    }
+
+    .textb input, .textb textarea {
+        margin-top: 4px;
+    }
+} */
+
+/* Animations - when hoovering an image it increases in size, links change color, menu button increase in size */
 img {
     transition: transform .3s ease;
 }

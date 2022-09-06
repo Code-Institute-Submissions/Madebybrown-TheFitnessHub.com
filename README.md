@@ -27,6 +27,8 @@
 
 <br>
 
+![Home Page](imagesreadme/amiresponsive.png)
+
 ## Description
 <p>The Fitness Hub is a website that aims to provide its visitors with relevant articles regarding health & fitness.
 
@@ -36,7 +38,7 @@ If you're as passionate about health & fitness as we are, then The Fitness Hub i
 <br>
 
 ## Live Site
-[TheFitnessHub](https://madebybrown.github.io/FitnessHub.com/)
+[TheFitnessHub](https://madebybrown.github.io/FitnessHub.com/index.html)
 
 <br>
 
@@ -59,10 +61,6 @@ If you're as passionate about health & fitness as we are, then The Fitness Hub i
 - [Linkedin](https://www.linkedin.com/in/alexander-jonsson-312a70248/)
 
 <br>
-
-## Screenshots
-![Home Page](imagesreadme/amiresponsive.png)
-<p></p>
 
 ## Features
 <p>The website contains common features, a navbar at the top of the page that sticks to the top while scrolling down and collapses into a hamburger menu when used on smaller screens, its intended purpose is to be easy to use among all the sections and pages.</p>
@@ -173,9 +171,12 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 <br>
 
 ## Future Features
+- Landing page - A single landing page with ethos and login.
 - Account creation - Enables the visitor to save and store interesting articles that they may want to read later or share with their friends and family.
 - Share function - Makes it easier to share articles across other platforms.
-- Article Gallery - A collection of all the articles posted on the website, grouped into categories.
+- Article Gallery - A collection of all the articles posted on the website, grouped into categories and sections.
+- Hamburger menu - drop down menu to the side instead of in the top middle.
+- Featured articles - Increase the amount of articles in the featured articles section.
 
 ## Deployment
 - The website was deployed using GitHub

@@ -64,18 +64,6 @@
         </div>
     </section>
 
-<!-- menu button script, when screen size width is bellow 850px, nav-links will be hidden at the top (Outside of the viewport), 
-    this script will toggle upon menu-btn being clicked and the nav-links will then slide down, click again will untoggle script 
-    (Credit to: My uncle who helped me understand how to use the script element and its features) -->
-    <script>
-        const menuBtn = document.querySelector('.menu-btn')
-        const navlinks = document.querySelector('.nav-links')
-
-        menuBtn.addEventListener('click',()=>{
-            navlinks.classList.toggle('mobile-menu')
-        })
-    </script>
-
     <!-- Footer (Credit to: Love running project) -->
     <footer class="footer">
         <ul class="social-networks">
@@ -87,6 +75,18 @@
             </li>
         </ul>
     </footer>
+
+    <!-- menu button script, when screen size width is bellow 850px, nav-links will be hidden at the top (Outside of the viewport), 
+    this script will toggle upon menu-btn being clicked and the nav-links will then slide down, click again will untoggle script 
+    (Credit to: My uncle who helped me understand how to use the script element and its features) -->
+    <script>
+        const menuBtn = document.querySelector('.menu-btn')
+        const navlinks = document.querySelector('.nav-links')
+
+        menuBtn.addEventListener('click',()=>{
+            navlinks.classList.toggle('mobile-menu')
+        })
+    </script>
 
     <!-- font awesome script, in case icons will be used in future updates-->
     <script src="https://kit.fontawesome.com/1b5c6f5f59.js" crossorigin="anonymous"></script>
