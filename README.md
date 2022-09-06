@@ -38,7 +38,7 @@ If you're as passionate about health & fitness as we are, then The Fitness Hub i
 <br>
 
 ## Live Site
-[TheFitnessHub](https://madebybrown.github.io/FitnessHub.com/)
+[TheFitnessHub](https://madebybrown.github.io/TheFitnessHub.com/)
 
 <br>
 
