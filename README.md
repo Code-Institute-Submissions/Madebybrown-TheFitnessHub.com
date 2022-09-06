@@ -3,17 +3,23 @@
 
 ## Table Of Contents
 - [Description](#discription)
-- [Key Goals](#key-goals)
+- [Live Site](#live-site)
+- [Goals](#key-goals)
 - [Target Audience](#target-audience)
+- [Social Links](#Social-links)
 - [Screenshots](#screenshots)
 - [Features](#features)
     - [Home / Navigation Bar](#home--navigation-bar)
     - [Featured Articles](#featured-articles)
     - [Explore](#explore)
-    - [Thank You](#thank-you-page)
+    - [Contact](#contact)
+    - [Thank You Page](#thank-you-page)
     - [Footer](#footer)
-- [Built With](#built-with)
+    - [Future Features](#future-features)
+- [Deployment](#deployment)
+- [Technologies Used](#technologies-used)
 - [Testing](#testing)
+    - [Code Validation](#validation)
     - [Lighthouse](#lighthouse)
     - [Responsiveness](#responsiveness)
     - [Bugs](#bugs)
@@ -48,7 +54,7 @@ If you're as passionate about health & fitness as we are, then The Fitness Hub i
 
 <br>
 
-## Links
+## Social Links
 - [Repository](https://github.com/Madebybrown/FitnessHub.com)
 - [Linkedin](https://www.linkedin.com/in/alexander-jonsson-312a70248/)
 
@@ -215,6 +221,8 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 ## Testing
 <p>The Fitness Hub has been tested in these different ways:</p>
 
+### Validation
+
 - Code Validation
     - W3C HTML Validator
 <br>
@@ -266,7 +274,7 @@ Style.html
     - Galaxy Fold
     - Nest Hub & Hub Max
 
-    <p>I also tested the site on iPhone 7, iPhone 8, and a Lenovo legion 5, the only issue I've encountered is that on the iPhone 7 and 8 2 site elements didn't fit the screen, this can be fixed in the future with better media queries.</p>
+    <p>I also tested the website on iPhone 7, iPhone 8, and a Lenovo legion 5, the only issue I've encountered is that on the iPhone 7 and 8 one element didn't stay consistent to its original design, check out [Unresolved](#unresolved) section for pictures.</p>
 
 ## Browsers
 - The site was tested on Google Chrome, Microsoft Edge, and Safari. There were no issues with any of the browsers and the design looked consistent on all the browsers.
