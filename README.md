@@ -29,6 +29,11 @@ If you're as passionate about health & fitness as we are, then The Fitness Hub i
 
 <br>
 
+## Live Site
+[TheFitnessHub](https://madebybrown.github.io/FitnessHub.com/)
+
+<br>
+
 ## Key Goals
 - To showcase my competency as a developer using HTML & CSS.
 - To problem solve and tackle challenges that force me to learn more about good coding practices.
@@ -42,9 +47,6 @@ If you're as passionate about health & fitness as we are, then The Fitness Hub i
 <p>Health & Fitness enthusiasts, personal trainers.</p>
 
 <br>
-
-## Live Site
-[TheFitnessHub](https://madebybrown.github.io/FitnessHub.com/)
 
 ## Links
 - [Repository](https://github.com/Madebybrown/FitnessHub.com)
@@ -171,12 +173,31 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 
 ## Deployment
 - The website was deployed using GitHub
-- Enter repositories
-- Locate FitnessHub.com and click it
-- Go to settings
-- On the left-hand side is a section called Pages, click it
-- Select the Branch to be "Main" and click save
-- Now wait a few minutes for GitHub to build and deploy your site then refresh the page and at the top of the Pages section you will find the link to your deployed website.
+1. Enter repositories
+
+![Repository](imagesreadme/repository.png)
+
+2. Locate FitnessHub.com and click it
+
+![The Fitness Hub](imagesreadme/thefitnesshub.png)
+
+3. Go to settings
+
+![Settings](imagesreadme/settings.png)
+
+4. On the left-hand side is a section called Pages, click it
+
+![Pages](imagesreadme/pages.png)
+
+5. Select the Branch to be "Main" and click save
+
+![Branch](imagesreadme/branch.png)
+
+6. Now wait a few minutes for GitHub to build and deploy your site then refresh the page and at the top of the Pages section you will find the link to your deployed website.
+
+
+![Deployd](imagesreadme/deployd.png)
+
 
 ## Technologies Used
 - [HTML5](https://sv.wikipedia.org/wiki/HTML5) - Provides structure and content to site
