@@ -295,23 +295,37 @@ Style.html
     - Galaxy Fold
     - Nest Hub & Hub Max
 
-    <p>I also tested the website on iPhone 7, iPhone 8, and a Lenovo legion 5, the only issue I've encountered is that on the iPhone 7 and 8 one element didn't stay consistent to its original design, check out</p> [Unresolved](#unresolved) <p>section for pictures.</p>
+    <p>I also tested the website on iPhone 7, iPhone 8, and a Lenovo legion 5, the only issue I've encountered is that on the iPhone 7 and 8 one element didn't stay consistent to its original design, check out the link below for pictures.</p>
+
+    [Unresolved](#unresolved)
 
 ## Browsers
 - The site was tested on Google Chrome, Microsoft Edge, and Safari. There were no issues with any of the browsers and the design looked consistent on all the browsers.
 
 ## Bugs
 ### Problem
+<p>The contact form is out of alignment</p>
+
 ![Contactpage](imagesreadme/contactpage.png)
 ### Resolved
+<p>By removing the footer</p>
+
 ![contactpage](imagesreadme/contactfixed.png)
 ### Problem
+<p>The contact form stretches to far outside of the viewport height.</p>
+
 ![Contactpage](imagesreadme/contactform.JPG)
 ### Resolved
+<p>By adding specific style rules to a media querie this issue was resolved.</p>
+
 ![contactpage](imagesreadme/contactformfixed.PNG)
 ### Problem
+<p>The issue here is the section stretches to far down and outside of the image, the aim is to have the Back-to-the-top link inside of the explore section image.</p>
+
 ![backtop](imagesreadme/backtop.PNG)
 ### Resolved
+<p>By adding a font-size value of (4.2vmin) to the paragraph in media queries I managed to fit the whole section inside the image</p>
+
 ![backtop](imagesreadme/backtopfixed.PNG)
 <br>
 
@@ -320,6 +334,11 @@ Style.html
 <p>This problem is only visible on a mobile phone, the Send! button doesn't stay consistent and true to the original design, I have a hard time trying to figure out how to fix it because I can't create the same effect in Chrome Developer Tools, even though I use the same width and height as an iPhone 7.</p>
 
 ![contactpage](imagesreadme/contactformsend.png)
+
+### Problem
+<p>Issue with the keyboard on android.</p>
+
+![contactpage](imagesreadme/contactandroid.png)
 
 ## Credit Section
 - [**Contact Form**](https://youtu.be/f0DcnrpeBv8)
