@@ -22,7 +22,7 @@
 <br>
 
 ## Description
-<p>The Fitness Hub is a website that aims to provide its visitors with the latest research articles regarding health & fitness.
+<p>The Fitness Hub is a website that aims to provide its visitors with relevant articles regarding health & fitness.
 
 If you're as passionate about health & fitness as we are, then The Fitness Hub is the perfect website for you!
 </p>
@@ -34,7 +34,7 @@ If you're as passionate about health & fitness as we are, then The Fitness Hub i
 - To problem solve and tackle challenges that force me to learn more about good coding practices.
 
 ### External Goals
-- To create a website that solves the questions regarding where to find up-to-date information regarding research on health & fitness.
+- To create a website that solves the questions regarding where to find information regarding research on health & fitness.
 
 <br>
 
