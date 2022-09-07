@@ -411,6 +411,12 @@ p   {
     }
 }
 
+@media only screen and (min-width:768px) {
+    .explore-content p {
+        font-size: 3.4vmin;
+    }
+}
+
 /* When screen width is smaller than 470 px, makes elements in header, explore
 and contact form appear in the right scale */
 @media only screen and (max-width:470px) {
