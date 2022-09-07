@@ -14,11 +14,27 @@
 
     <!-- Navbar -->
     <nav class="navbar" id="1">
-        <h1 class="logo"><a href="index.html">THE FITNESS HUB</a></h1>
+        <h1 class="logo">
+            <a href="index.html">
+                THE FITNESS HUB
+            </a>
+        </h1>
         <ul class="nav-links">
-            <li><a href="index.html#articles" class="ctn">Articles</a></li>
-            <li><a href="index.html#explore" class="ctn">Explore</a></li>
-            <li class="ctn" id="ctn1"><a href="contact.html">Contact</a></li>
+            <li>
+                <a href="index.html#articles" class="ctn">
+                    Articles
+                </a>
+            </li>
+            <li>
+                <a href="index.html#explore" class="ctn">
+                    Explore
+                </a>
+            </li>
+            <li class="ctn" id="ctn1">
+                <a href="contact.html">
+                    Contact
+                </a>
+            </li>
         </ul>
         <img src="assets/images/menu.webp" alt="Menu Icon" class="menu-btn">
     </nav>
@@ -26,15 +42,22 @@
     <!-- Confirmation Message upon submitting contact form -->
     <header>
         <div class="header-content">
-            <h3>The Fitness Hub</h3>
+            <h3>
+                The Fitness Hub
+            </h3>
             <div class="line"></div>
-            <p>Thank you for sharing this with us, our team will reach out to you as soon as possible!</p>
-            <a href="index.html" class="ctn">Home</a>
+            <p>
+                Thank you for sharing this with us, our team will reach out to you as soon as possible!
+            </p>
+            <a href="index.html" class="ctn">
+                Home
+            </a>
         </div>
     </header>
 
-<!-- menu button script, when screen size width is bellow 850px, nav-links will be hidden up top (Outside of viewport), 
-    this script will toggle upon menu-btn being clicked and the nav-links will slide down, click again will untoggle script -->
+<!-- menu button script, when screen size width is bellow 850px, nav-links will be hidden at the top (Outside of the viewport), 
+    this script will toggle upon menu-btn being clicked and the nav-links will then slide down, click again will untoggle script 
+    (Credit to: My uncle who helped me understand how to use the inline script element and its features) -->
     <script>
         const menuBtn = document.querySelector('.menu-btn')
         const navlinks = document.querySelector('.nav-links')

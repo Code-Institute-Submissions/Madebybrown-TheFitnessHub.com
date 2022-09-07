@@ -14,11 +14,27 @@
     
     <!-- Navbar -->
     <nav class="navbar" id="1">
-        <h1 class="logo"><a href="index.html">THE FITNESS HUB</a></h1>
+        <h1 class="logo">
+            <a href="index.html">
+                THE FITNESS HUB
+            </a>
+        </h1>
         <ul class="nav-links">
-            <li><a href="index.html#articles" class="ctn">Articles</a></li>
-            <li><a href="index.html#explore" class="ctn">Explore</a></li>
-            <li class="ctn" id="ctn1"><a href="contact.html">Contact</a></li>
+            <li>
+                <a href="index.html#articles" class="ctn">
+                    Articles
+                </a>
+            </li>
+            <li>
+                <a href="index.html#explore" class="ctn">
+                    Explore
+                </a>
+            </li>
+            <li class="ctn" id="ctn1">
+                <a href="contact.html">
+                    Contact
+                </a>
+            </li>
         </ul>
         <img src="assets/images/menu.webp" alt="Menu Icon" class="menu-btn">
     </nav>
@@ -26,32 +42,43 @@
     <!-- Contact Form (Credit to: https://youtu.be/f0DcnrpeBv8 video tutorial)-->
     <form action="thankyou.html">
         <div class="contact-form">
-            <h2>Contact Us</h2>
+            <h2>
+                Contact Us
+            </h2>
             <div class="textb">
-                <label for="fname" class="inputla">Full Name :</label>
+                <label for="fname" class="inputla">
+                    Full Name :
+                </label>
                 <input type="text" name="fname" class="inputfi" id="fname" placeholder="Enter Your Name" required>
             </div>
     
             <div class="textb">
-                <label for="email" class="inputla">Email Address :</label>
+                <label for="email" class="inputla">
+                    Email Address :
+                </label>
                 <input type="email" name="email" class="inputfi" id="email" placeholder="Enter Your Email" required>
             </div>
     
             <div class="textb">
-                <label for="pnumber" class="inputla">Phone Number :</label>
+                <label for="pnumber" class="inputla">
+                    Phone Number :
+                </label>
                 <input type="text" name="phone_number" class="inputfi" id="pnumber" placeholder="Enter Your Phone Number (Optional)">
             </div>
     
             <div class="textb">
-                <label for="message" class="inputla">Message :</label>
+                <label for="message" class="inputla">
+                    Message :
+                </label>
                 <textarea name="message" class="inputfi" id="message" cols="10" rows="5" placeholder="Write Your Message here..." required></textarea>
             </div>
             <input type="submit" class="contact-btn" value="Send!">
         </div>    
     </form>
 
-<!-- menu button script, when screen size width is bellow 850px, nav-links will be hidden up top (Outside of viewport), 
-    this script will toggle upon menu-btn being clicked and the nav-links will slide down, click again will untoggle script -->
+<!-- menu button script, when screen size width is bellow 850px, nav-links will be hidden at the top (Outside of the viewport), 
+    this script will toggle upon menu-btn being clicked and the nav-links will then slide down, click again will untoggle script 
+    (Credit to: My uncle who helped me understand how to use the inline script element and its features) -->
     <script>
         const menuBtn = document.querySelector('.menu-btn')
         const navlinks = document.querySelector('.nav-links')
