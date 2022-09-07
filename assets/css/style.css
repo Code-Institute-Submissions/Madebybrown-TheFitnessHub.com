@@ -556,42 +556,6 @@ makes elements in header and explore appear in right scale. */
     }
 }
 
-
-/* @media only screen and (max-width:350px)  {
-    .explore-content h2 {
-        margin: 20px;
-    }
-
-    .explore-content .line {
-        margin-bottom: 20px;
-    }
-
-    .back-to-top {
-        padding: 25px;
-    }
-    
-    .contact-form {
-        height: 75%;
-        top: 55%;
-    }
-
-    .contact-form .textb {
-        height: 10vh;
-    }
-
-    .textb .inputfi {
-        font-size: 10px;
-    }
-
-    .textb .inputla {
-        font-size: 11px;
-    }
-
-    .textb input, .textb textarea {
-        margin-top: 4px;
-    }
-} */
-
 /* Animations - when hoovering an image it increases in size, links change color, menu button increase in size */
 img {
     transition: transform .3s ease;
