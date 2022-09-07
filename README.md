@@ -284,6 +284,8 @@ Style.html
 ![Lighthouse Laptop](imagesreadme/lighthouselaptop3.png)
 ## Fourth test
 ![Lighthouse Laptop](imagesreadme/lighthouselaptop4.png)
+## Fifth test
+![Lighthouse Laptop](imagesreadme/lighthousefinal.png)
 
 ## Responsiveness
 - I tested the responsive design with [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
