@@ -2,7 +2,7 @@
 <p align="center">The Fitness Hub, a place for the health & fitness enthusiast!</p>
 
 ## Table Of Contents
-- [Description](#discription)
+- [Description](#description)
 - [Live Site](#live-site)
 - [Goals](#key-goals)
 - [Target Audience](#target-audience)
