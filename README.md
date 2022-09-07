@@ -66,12 +66,12 @@ If you're as passionate about health & fitness as we are, then The Fitness Hub i
 <p>The website contains common features, a navbar at the top of the page that sticks to the top while scrolling down and collapses into a hamburger menu when used on smaller screens, its intended purpose is to be easy to use among all the sections and pages.</p>
 
 ## Home / Navigation bar
-<p>Navigation bar on desktop, website logo to the left and navigation links to the right.</p>
+<p>Navigation bar on the desktop, website logo to the left, and navigation links to the right.</p>
 
 ![Navbar](imagesreadme/navbar.png)
 
 <br>
-<p>Navigation bar on mobile, website logo to the left and hamburger menu to the right.</p>
+<p>Navigation bar on mobile, website logo to the left, and hamburger menu to the right.</p>
 
 ![Navbar Mobile](imagesreadme/navbarmobile.png)
 
@@ -169,7 +169,7 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 ![Thank You Mobile](imagesreadme/thankyoumobile.png)
 
 <br>
-<p>Thank you page on mobile with drop down menu</p>
+<p>Thank you page on mobile with drop-down menu</p>
 
 ![Thank You Mobile Menu](imagesreadme/thankyoumobilemenu.png)
 
@@ -191,12 +191,12 @@ The purpose of this section is to showcase the latest articles by giving a snipp
 <br>
 
 ## Future Features
-- Landing page - A single landing page with ethos and login.
+- Landing page - A single landing page with an ethos and log-in.
 - Account creation - Enables the visitor to save and store interesting articles that they may want to read later or share with their friends and family.
 - Share function - Makes it easier to share articles across other platforms.
 - Article Gallery - A collection of all the articles posted on the website, grouped into categories and sections.
-- Hamburger menu - drop down menu to the side instead of in the top middle.
-- Featured articles - Increase the amount of articles in the featured articles section.
+- Hamburger menu - drop-down menu to the side instead of in the top middle.
+- Featured articles - Increase the number of articles in the featured articles section.
 
 ## Deployment
 - The website was deployed using GitHub
@@ -295,7 +295,7 @@ Style.html
     - Galaxy Fold
     - Nest Hub & Hub Max
 
-    <p>I also tested the website on iPhone 7, iPhone 8, and a Lenovo legion 5, the only issue I've encountered is that on the iPhone 7 and 8 one element didn't stay consistent to its original design, check out the link below for pictures.</p>
+    <p>I also tested the website on iPhone 7, iPhone 8, and a Lenovo legion 5, the only issue I've encountered is that on the iPhone 7 and 8 one element didn't stay consistent with its original design, check out the link below for pictures.</p>
 
     [Unresolved](#unresolved)
 
@@ -316,11 +316,11 @@ Style.html
 
 ![Contactpage](imagesreadme/contactform.JPG)
 ### Resolved
-<p>By adding specific style rules to a media querie this issue was resolved.</p>
+<p>By adding specific style rules to a media query this issue was resolved.</p>
 
 ![contactpage](imagesreadme/contactformfixed.PNG)
 ### Problem
-<p>The issue here is the section stretches to far down and outside of the image, the aim is to have the Back-to-the-top link inside of the explore section image.</p>
+<p>The issue here is the section stretches too far down and outside of the image, the aim is to have the Back-to-the-top link inside of the explore section image.</p>
 
 ![backtop](imagesreadme/backtop.PNG)
 ### Resolved
@@ -331,7 +331,7 @@ Style.html
 
 ## Unresolved
 ### Problem
-<p>This problem is only visible on a mobile phone, the Send! button doesn't stay consistent and true to the original design, I have a hard time trying to figure out how to fix it because I can't create the same effect in Chrome Developer Tools, even though I use the same width and height as an iPhone 7.</p>
+<p>This problem is only visible on a mobile phone, the Send! the button doesn't stay consistent and true to the original design, I have a hard time trying to figure out how to fix it because I can't create the same effect in Chrome Developer Tools, even though I use the same width and height as an iPhone 7.</p>
 
 ![contactpage](imagesreadme/contactformsend.png)
 
