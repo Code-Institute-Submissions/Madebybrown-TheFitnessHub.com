@@ -14,6 +14,7 @@ body {
     overflow: hidden;
 }
 
+/* Credit for removing scrollbar to https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp */
 body , html {
     overflow-x: hidden;
 }
