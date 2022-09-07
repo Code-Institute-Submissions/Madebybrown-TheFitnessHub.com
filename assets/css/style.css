@@ -458,7 +458,7 @@ makes elements in header and explore appear in right scale. */
 @media only screen and (min-width: 375px) and (orientation: landscape) {
     .header-content {
         padding-bottom: 15px;
-        margin-bottom: 200px;
+        margin-bottom: 50px;
     }
 
     .explore-content .line {
